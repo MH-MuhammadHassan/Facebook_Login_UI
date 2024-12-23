@@ -22,3 +22,7 @@ This repository contains a Flutter-based implementation of a Facebook-style logi
 1. Clone the repository:
    ```bash
    git clone https://github.com/MH-MuhammadHassan/Facebook_Login_UI.git
+
+## Contributions
+
+Contributions are welcome! If you have additional examples or improvements, feel free to fork this repository and create a pull request.
